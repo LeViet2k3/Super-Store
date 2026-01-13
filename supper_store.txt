@@ -1,0 +1,8 @@
+cài git vào máy
+chạy lệnh này: dart pub global activate fvm -> nếu báo lỗi thì bật terminal mới rồi chạy lệnh: dart pub global activate fvm -> đóng vscode và mở lại chạy lệnh: fvm --version
+sau đó chạy tiếp lệnh: fvm install 3.16.9
+chạy tiếp lệnh: fvm use 3.16.9 -> nếu lỗi: windown + I chọn update & security// chạy lại lệnh này nếu đổi project phiên bản flutter khác
+để ktra chạy lệnh: fvm flutter --version
+tiếp theo chạy lệnh: 	fvm flutter clean
+			fvm flutter pub get
+			fvm flutter run
