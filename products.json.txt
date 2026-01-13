@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Balo Fjallraven Foldsack No.1 – Đựng laptop 15 inch",
+    "price": 2600000,
+    "description": "Chiếc balo lý tưởng cho việc sử dụng hằng ngày và đi dạo. Có ngăn đệm bảo vệ laptop lên đến 15 inch.",
+    "category": "Thời trang nam",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+    "rating": { "rate": 3.9, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Áo thun nam casual dáng ôm cao cấp",
+    "price": 520000,
+    "description": "Áo thun dáng ôm, tay dài phối màu, chất vải mềm nhẹ, thoáng khí, phù hợp mặc thường ngày.",
+    "category": "Thời trang nam",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "Áo khoác cotton nam",
+    "price": 1300000,
+    "description": "Áo khoác phù hợp cho mùa xuân, thu và đông. Thích hợp đi làm, du lịch và dã ngoại.",
+    "category": "Thời trang nam",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+    "rating": { "rate": 4.7, "count": 500 }
+  },
+  {
+    "id": 4,
+    "title": "Áo sơ mi nam dáng ôm casual",
+    "price": 370000,
+    "description": "Áo sơ mi phong cách trẻ trung, dễ phối đồ, phù hợp nhiều hoàn cảnh.",
+    "category": "Thời trang nam",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+    "rating": { "rate": 2.1, "count": 430 }
+  },
+  {
+    "id": 5,
+    "title": "Vòng tay bạc vàng John Hardy Naga",
+    "price": 16500000,
+    "description": "Vòng tay cao cấp thuộc bộ sưu tập Legends, biểu tượng của may mắn và bảo vệ.",
+    "category": "Trang sức",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 4.6, "count": 400 }
+  },
+  {
+    "id": 6,
+    "title": "Nhẫn vàng đính đá Micropave",
+    "price": 4000000,
+    "description": "Nhẫn thiết kế tinh xảo, thích hợp làm quà tặng hoặc trang sức hằng ngày.",
+    "category": "Trang sức",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 3.9, "count": 70 }
+  },
+  {
+    "id": 7,
+    "title": "Nhẫn mạ vàng trắng đính đá",
+    "price": 240000,
+    "description": "Nhẫn phong cách cổ điển, phù hợp cho đính hôn hoặc quà tặng.",
+    "category": "Trang sức",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 3.0, "count": 400 }
+  },
+  {
+    "id": 8,
+    "title": "Bông tai thép không gỉ mạ vàng hồng",
+    "price": 260000,
+    "description": "Bông tai thép không gỉ 316L, bền đẹp, thiết kế hiện đại.",
+    "category": "Trang sức",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+    "rating": { "rate": 1.9, "count": 100 }
+  },
+  {
+    "id": 9,
+    "title": "Ổ cứng di động WD 2TB USB 3.0",
+    "price": 1500000,
+    "description": "Ổ cứng di động dung lượng lớn, tốc độ cao, phù hợp sao lưu dữ liệu.",
+    "category": "Điện tử",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+    "rating": { "rate": 3.3, "count": 203 }
+  },
+  {
+    "id": 10,
+    "title": "Ổ cứng SSD SanDisk 1TB SATA III",
+    "price": 2600000,
+    "description": "SSD nâng cấp tốc độ khởi động và hiệu năng hệ thống.",
+    "category": "Điện tử",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+    "rating": { "rate": 2.9, "count": 470 }
+  },
+  {
+    "id": 11,
+    "title": "Ổ cứng SSD Silicon Power 256GB",
+    "price": 2600000,
+    "description": "SSD 3D NAND giúp cải thiện tốc độ và độ bền cho máy tính.",
+    "category": "Điện tử",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+    "rating": { "rate": 4.8, "count": 319 }
+  },
+  {
+    "id": 12,
+    "title": "Ổ cứng di động WD 4TB dành cho PS4",
+    "price": 2700000,
+    "description": "Ổ cứng dung lượng lớn dành cho game thủ PlayStation.",
+    "category": "Điện tử",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+    "rating": { "rate": 4.8, "count": 400 }
+  },
+  {
+    "id": 13,
+    "title": "Màn hình Acer 21.5 inch Full HD",
+    "price": 14000000,
+    "description": "Màn hình IPS Full HD, thiết kế viền mỏng, hiển thị sắc nét.",
+    "category": "Điện tử",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+    "rating": { "rate": 2.9, "count": 250 }
+  },
+  {
+    "id": 14,
+    "title": "Màn hình cong Samsung 49 inch gaming",
+    "price": 23500000,
+    "description": "Màn hình siêu rộng dành cho game thủ, tần số quét 144Hz.",
+    "category": "Điện tử",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+    "rating": { "rate": 2.2, "count": 140 }
+  },
+  {
+    "id": 15,
+    "title": "Áo khoác nữ 3 trong 1 chống lạnh",
+    "price": 1350000,
+    "description": "Áo khoác giữ ấm tốt, phù hợp mùa đông và hoạt động ngoài trời.",
+    "category": "Thời trang nữ",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+    "rating": { "rate": 2.6, "count": 235 }
+  },
+  {
+    "id": 16,
+    "title": "Áo khoác da nữ có mũ tháo rời",
+    "price": 710000,
+    "description": "Áo khoác da phong cách biker, cá tính và thời trang.",
+    "category": "Thời trang nữ",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+    "rating": { "rate": 2.9, "count": 340 }
+  },
+  {
+    "id": 17,
+    "title": "Áo khoác mưa nữ chống gió",
+    "price": 950000,
+    "description": "Áo mưa nhẹ, chống gió, phù hợp du lịch và sinh hoạt hằng ngày.",
+    "category": "Thời trang nữ",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+    "rating": { "rate": 3.8, "count": 679 }
+  },
+  {
+    "id": 18,
+    "title": "Áo thun nữ cổ thuyền tay ngắn",
+    "price": 240000,
+    "description": "Áo thun nữ mềm mại, co giãn tốt, mặc thoải mái.",
+    "category": "Thời trang nữ",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+    "rating": { "rate": 4.7, "count": 130 }
+  },
+  {
+    "id": 19,
+    "title": "Áo thun nữ thể thao thấm hút mồ hôi",
+    "price": 190000,
+    "description": "Áo thun thể thao nhẹ, thoáng khí, phù hợp vận động.",
+    "category": "Thời trang nữ",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+    "rating": { "rate": 4.5, "count": 146 }
+  },
+  {
+    "id": 20,
+    "title": "Áo thun nữ cotton cổ chữ V",
+    "price": 310000,
+    "description": "Áo thun cotton mềm mại, phong cách đơn giản, dễ phối đồ.",
+    "category": "Thời trang nữ",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+    "rating": { "rate": 3.6, "count": 145 }
+  }
+]
